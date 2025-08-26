@@ -29,8 +29,7 @@ I'm always open to:
 - 🔹 Sharing ideas on AI, DevOps, and full-stack development  
 
 📧 **Email:** jagritisrvstv@gmail.com
-
-📧 **Portfolio:** https://www.jagritisrvstvt.com  
+📧 **Portfolio:** https://www.jagritisrvstv.com  
 🔗 **LinkedIn:** [Jagriti Srivastava](https://www.linkedin.com/in/jagritisrivastava/)  
 🐦 **GitHub:** [@jagritiS](https://github.com/jagritiS)  
 
