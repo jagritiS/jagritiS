@@ -17,7 +17,7 @@
 
 ## 📚 What I'm Working On  
 - 🌐 Building **AI-powered tools** & **open-source developer utilities**  
-- 💡 Exploring **Genomic Data Infrastructure & OIDC/Keycloak integration**  
+- 💡 Exploring **Gen AI and trying to integrate it into Java and Python**  
 - 📝 Sharing knowledge through [Medium articles](https://medium.com/@jagritiS)  
 
 ---
