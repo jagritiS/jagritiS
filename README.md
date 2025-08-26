@@ -1,24 +1,40 @@
+# 👋 Hi, I'm Jagriti Srivastava  
 
-Hello! I'm Jagriti, a passionate and dedicated software developer with a strong affinity for solving complex problems and crafting efficient, elegant code. My journey in the tech world has been driven by curiosity and a relentless desire to learn and innovate. Here's a bit more about me:
+🚀 Passionate **Software Developer** with 9+ years of full-stack experience across **India, Nepal, and Germany**. I love solving complex problems, building scalable applications, and contributing to impactful open-source projects.  
 
-🌟 Skills & Expertise
-Programming Languages: Python, JavaScript, Java, C++
-Web Development: HTML, CSS, React, Angular
-Data Science: Pandas, NumPy, Matplotlib, Scikit-Learn
-DevOps: Docker, CI/CD
-Frameworks : 
-            Java: Swing, Java FX, Groovy and Grails, Struts, Spring boot,
-            Python : Tkinter, Flask, Django
-Database Management: MySQL, PostgreSQL, Oracle
+---
 
-📚 Learning & Growth
-I believe in continuous learning and often explore new technologies and frameworks. Currently, I am diving deeper into project management and Software Development with Java and Python, and I enjoy sharing my knowledge through blog posts and tutorials.
+## 🌟 Skills & Expertise  
 
-💬 Let's Connect
-I'm always open to collaboration and engaging with the developer community. Feel free to reach out to me for discussions, collaborations, or just a friendly chat about tech!
+- **Programming:** Python | JavaScript | Java | C++ | Groovy  
+- **Web Development:** React | Angular | HTML | CSS  
+- **Frameworks:** Spring Boot | Grails | Struts | Flask | Django | FastAPI | Swing | JavaFX  
+- **Data Science & AI/ML:** Pandas | NumPy | Scikit-Learn | Matplotlib  
+- **Databases:** MongoDB | MySQL | PostgreSQL | Oracle  
+- **DevOps & Cloud:** Docker | CI/CD | AWS | GitHub Actions  
 
-Email:jagriti.srvstva@gmail.com
-LinkedIn: https://www.linkedin.com/in/jagritisrivastava/
+---
 
+## 📚 What I'm Working On  
+- 🌐 Building **AI-powered tools** & **open-source developer utilities**  
+- 💡 Exploring **Genomic Data Infrastructure & OIDC/Keycloak integration**  
+- 📝 Sharing knowledge through [Medium articles](https://medium.com/@jagritiS)  
 
-Thank you for visiting my GitHub profile. Let's build something amazing together!
+---
+
+## 🤝 Let’s Collaborate  
+I'm always open to:  
+- 🔹 Open-source contributions  
+- 🔹 Building developer-focused tools  
+- 🔹 Sharing ideas on AI, DevOps, and full-stack development  
+
+📧 **Email:** jagritisrvstv@gmail.com
+
+📧 **Portfolio:** https://www.jagritisrvstvt.com  
+🔗 **LinkedIn:** [Jagriti Srivastava](https://www.linkedin.com/in/jagritisrivastava/)  
+🐦 **GitHub:** [@jagritiS](https://github.com/jagritiS)  
+
+---
+
+⭐️ *If you like my work, feel free to star my repositories. Let’s build something amazing together!*  
+
